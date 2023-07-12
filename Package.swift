@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PostHog",
+    name: "Ablaevent",
     platforms: [
         .iOS(.v13), .tvOS(.v13)
     ],
